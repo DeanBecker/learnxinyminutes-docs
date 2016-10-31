@@ -86,3 +86,6 @@ licensing included on each doc page.
 
 Anything not covered by the above -- basically, this README -- you can use
 as you wish, I guess.
+
+## Languages
+There are lots of them
